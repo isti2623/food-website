@@ -200,3 +200,21 @@ font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubunt
 
   /******Footer Section**********/
 
+footer p{ 
+    text-align: center;
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   }
+   .h3-footer{
+       color: white;
+       font-family: 'Otomanopee One', sans-serif;
+       text-align: center;
+
+   }
+.footer-part{
+    background-image:url("footer.png");
+    background-repeat: no-repeat;
+    padding: 50px;
+    background-position: bottom;
+   
+}
