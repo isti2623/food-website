@@ -1,0 +1,170 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+font-family: 'Zen Loop', cursive;
+    margin: 0 auto;
+}
+
+/********* Part One Section*********/
+.navbar ul{
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Otomanopee One', sans-serif;
+}
+.navbar ul li{
+padding-top: 20px;
+margin: 20px;
+display: inline-block;
+}
+.navbar ul li a{
+text-decoration: none;
+display: block;
+color: black;
+font-weight: 700;
+
+}
+.navbar ul li a:hover{
+color: #fc8746;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+    
+}
+.double-part{
+    display: flex;
+    padding: 100px;
+}
+.top-banner{
+    background-image:url(top-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 100%;
+}
+.h1-one{
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 40px;
+}
+.p-one{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: justify;
+    font-weight: 700;
+    padding-bottom: 40px;
+}
+.a-one{
+    text-decoration: none;
+    background-image: linear-gradient(#ffad41,#fa675e);
+    color: white;
+    border-radius: 10%;
+    padding: 10px 40px;
+    border-radius: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+/******* Part Two Section********/
+
+.second-half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.second-half-width img{
+    width: 72%;
+    
+}
+.double-part{
+    display: flex;
+    padding: 150px;
+}
+.left-part-one{
+padding: 50px;
+}
+.second-banner{
+    background-image:url(one-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 100%;
+}
+.h1-two{
+color: #707070;
+font-family: 'Otomanopee One', sans-serif;
+    font-size: 40px;
+    padding-bottom:20px ;
+}
+.p-two{
+    word-spacing: 5px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: justify;
+    font-weight: 400;
+    
+    padding-bottom: 50px;
+    
+}
+
+
+/*******Recipe Or Third Section*********/
+
+.h1-three{
+    color: #707070;
+    font-family: 'Otomanopee One', sans-serif;
+        font-size: 40px;
+        padding-bottom:10px ;
+        text-align: center;
+}
+
+.p-three{
+text-align: center;
+font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+
+.three-part{
+    width: 30%;
+    padding-left: 5%;
+}
+
+.box {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    border-radius: 5px;
+    margin: 30px;
+  }
+  
+  .box:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  img {
+    border-radius: 5px 5px 0px 0px;
+    margin: -30px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+   }
+  
+  .text-part {
+    padding-right: 60px;
+    margin-right: 40px;
+    text-align: start;
+  }
+  .h4-third{
+    color: black;
+    font-family: 'Otomanopee One', sans-serif;
+    
+  }
+  .p-third{
+    text-align: justify;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     
+  }
+
+  /*********Review Or Four Section************/
+
+
+
+
